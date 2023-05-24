@@ -1,4 +1,4 @@
-# Elm 101
+# Elm Resources
 
 - [Introduction to Elm for React Developers](https://kkalamarski.me/introduction-to-elm-programming-language-for-react-developers)
 - [Browser.element minimal app (Html)](https://ellie-app.com/jSsnXRshNFva1) - A great way to jump start a project
