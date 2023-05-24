@@ -4,6 +4,9 @@
 - [Browser.element minimal app (Html)](https://ellie-app.com/jSsnXRshNFva1) - A great way to jump start a project
 - [Elm Guide for JavaScript Developers](https://github.com/elm-guides/elm-for-js) - Community driven Elm guide for JavaScript developers
 
+## The Elm Architecture (TEA)
+- [Animation to help explain TEA](https://lucamug.medium.com/the-elm-architecture-tea-animation-3efc555e8faf)
+
 ## Ellies
 
 - [Ellie](https://ellie-app.com) - Browser Elm Editor to share example code
